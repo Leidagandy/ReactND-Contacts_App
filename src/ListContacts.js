@@ -1,5 +1,7 @@
 import React, { Component } from "react";
 
+// checking if this will push to github
+
 // function ListContacts(props) {
 //   return (
 //     <ol className="contact-list">
